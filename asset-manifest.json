@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/platzi-blog/static/css/main.59b019a4.chunk.css",
+    "main.css": "/platzi-blog/static/css/main.2e8057ea.chunk.css",
     "main.js": "/platzi-blog/static/js/main.dd224a4c.chunk.js",
     "main.js.map": "/platzi-blog/static/js/main.dd224a4c.chunk.js.map",
     "runtime-main.js": "/platzi-blog/static/js/runtime-main.3c220faa.js",
@@ -10,7 +10,7 @@
     "static/js/3.c5d63b50.chunk.js": "/platzi-blog/static/js/3.c5d63b50.chunk.js",
     "static/js/3.c5d63b50.chunk.js.map": "/platzi-blog/static/js/3.c5d63b50.chunk.js.map",
     "index.html": "/platzi-blog/index.html",
-    "static/css/main.59b019a4.chunk.css.map": "/platzi-blog/static/css/main.59b019a4.chunk.css.map",
+    "static/css/main.2e8057ea.chunk.css.map": "/platzi-blog/static/css/main.2e8057ea.chunk.css.map",
     "static/js/2.17480a89.chunk.js.LICENSE.txt": "/platzi-blog/static/js/2.17480a89.chunk.js.LICENSE.txt",
     "static/media/006-like.35dcdfb1.png": "/platzi-blog/static/media/006-like.35dcdfb1.png",
     "static/media/013-newsletter.893bca24.png": "/platzi-blog/static/media/013-newsletter.893bca24.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c220faa.js",
     "static/js/2.17480a89.chunk.js",
-    "static/css/main.59b019a4.chunk.css",
+    "static/css/main.2e8057ea.chunk.css",
     "static/js/main.dd224a4c.chunk.js"
   ]
 }
