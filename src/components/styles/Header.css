@@ -68,10 +68,20 @@ header {
   .icons a {
     font-size: 5px;
   }
+  
+  nav .nav-logo-container {
+    padding-left: 20px;
+  
+  }
+
+  nav .profile-link {
+    padding-right: 20px;
+  
+  }
 }
 
-@media screen and (max-width: 369px) {
+/* @media screen and (max-width: 369px) {
   .header-icons-container {
     max-width: 100vw;
   }
-}
+} */
