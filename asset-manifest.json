@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/platzi-blog/static/css/main.fc0de0ee.chunk.css",
+    "main.js": "/platzi-blog/static/js/main.f27919c1.chunk.js",
+    "main.js.map": "/platzi-blog/static/js/main.f27919c1.chunk.js.map",
+    "runtime-main.js": "/platzi-blog/static/js/runtime-main.3c220faa.js",
+    "runtime-main.js.map": "/platzi-blog/static/js/runtime-main.3c220faa.js.map",
+    "static/js/2.17480a89.chunk.js": "/platzi-blog/static/js/2.17480a89.chunk.js",
+    "static/js/2.17480a89.chunk.js.map": "/platzi-blog/static/js/2.17480a89.chunk.js.map",
+    "static/js/3.c5d63b50.chunk.js": "/platzi-blog/static/js/3.c5d63b50.chunk.js",
+    "static/js/3.c5d63b50.chunk.js.map": "/platzi-blog/static/js/3.c5d63b50.chunk.js.map",
+    "index.html": "/platzi-blog/index.html",
+    "static/css/main.fc0de0ee.chunk.css.map": "/platzi-blog/static/css/main.fc0de0ee.chunk.css.map",
+    "static/js/2.17480a89.chunk.js.LICENSE.txt": "/platzi-blog/static/js/2.17480a89.chunk.js.LICENSE.txt",
+    "static/media/006-like.35dcdfb1.png": "/platzi-blog/static/media/006-like.35dcdfb1.png",
+    "static/media/013-newsletter.893bca24.png": "/platzi-blog/static/media/013-newsletter.893bca24.png",
+    "static/media/Home.css": "/platzi-blog/static/media/Cover.fed2338e.png",
+    "static/media/flaticon.css": "/platzi-blog/static/media/Flaticon.eb2c613c.woff",
+    "static/media/main-news-img.5a0b2281.png": "/platzi-blog/static/media/main-news-img.5a0b2281.png",
+    "static/media/post-1.9aa07e35.png": "/platzi-blog/static/media/post-1.9aa07e35.png",
+    "static/media/post-2.9ce3b3e8.png": "/platzi-blog/static/media/post-2.9ce3b3e8.png",
+    "static/media/post-3.53ed5aad.png": "/platzi-blog/static/media/post-3.53ed5aad.png",
+    "static/media/profile-pic.31875730.jpg": "/platzi-blog/static/media/profile-pic.31875730.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c220faa.js",
+    "static/js/2.17480a89.chunk.js",
+    "static/css/main.fc0de0ee.chunk.css",
+    "static/js/main.f27919c1.chunk.js"
+  ]
+}
