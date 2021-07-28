@@ -51,7 +51,7 @@ function Perfil(props) {
         
         
             <section className="contact-main-container">
-            <div>
+            <div className="contact">
                 <img src={newsletter} alt="" />
                 <div className="contact-left">
                 <a href="#">Contacto</a>
@@ -59,7 +59,7 @@ function Perfil(props) {
                 </div>
             </div>
         
-            <div className="">
+            <div v className="contact">
                 <img src={like} alt="" />
                 <div className="contact-right">
                 <a href="#">Escribe</a>
